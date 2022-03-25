@@ -1,4 +1,4 @@
-# TriWing's M-EX Tutorial code
+# TriWing's M-EX Tutorial Code
 
 This repo is an accompaniment to this youtube video https://www.youtube.com/watch?v=WB5DBqSTGzo
 
